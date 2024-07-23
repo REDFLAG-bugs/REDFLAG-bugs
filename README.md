@@ -13,7 +13,7 @@ Hi, I'm [Anshuman Mishra](https://github.com/REDFLAG-bugs) - a passionate develo
 - 💬 Ask me about cloud computing
 - 📫 How to reach me: [anshumanmishra274@gmail.com](mailto:anshumanmishra274@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can connect people easily, but i won't talk to them
+- ⚡ Fun fact: I can connect with people easily, but i won't talk to them
 
 ## Projects
 
