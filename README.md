@@ -27,8 +27,10 @@ Here are a few projects I've worked on:
 - [LinkedIn](https://www.linkedin.com/in/iamanshumanmishra/)
 - [The X app](https://x.com/ifound_24)
 * * *
-* * *
+
 <!-- Profile View Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=REDFLAG-bugs&color=blue" alt="Profile Views"/>
 </p>
+
+* * *
