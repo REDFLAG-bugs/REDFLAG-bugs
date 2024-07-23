@@ -23,10 +23,6 @@ Here are a few projects I've worked on:
 
 - [IAC-for-EKS-using-Terraform](https://github.com/REDFLAG-bugs/IAC-for-EKS-using-Terraform): This project demonstrates how to deploy and manage an AWS EKS cluster using Terraform, with S3 and DynamoDB for state management.
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=REDFLAG-bugs&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/iamanshumanmishra/)
