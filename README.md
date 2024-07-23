@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=REDFLAG-bugs&color=blue)
-[![Total Profile Visits](https://hits.sh/github.com/REDFLAG-bugs.svg?style=for-the-badge)](https://hits.sh/github.com/REDFLAG-bugs/)
 
 ## About Me
 
