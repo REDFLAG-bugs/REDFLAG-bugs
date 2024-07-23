@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-## ![Profile Views](https://komarev.com/ghpvc/?username=REDFLAG-bugs&color=blue)
-
+* * *
 ## About Me
 
 Hi, I'm [Anshuman Mishra](https://github.com/REDFLAG-bugs) - a passionate developer. I love building software and learning new technologies.
@@ -27,3 +26,6 @@ Here are a few projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/iamanshumanmishra/)
 - [The X app](https://x.com/ifound_24)
+* * *
+* * *
+![Profile Views](https://komarev.com/ghpvc/?username=REDFLAG-bugs&color=blue)
