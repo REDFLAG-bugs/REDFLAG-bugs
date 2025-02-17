@@ -5,7 +5,7 @@
 
 Hi, I'm [Anshuman Mishra](https://github.com/REDFLAG-bugs) - a passionate developer. I love building software and learning new technologies.
 
-- 🔭 I’m currently working on [NCERT-BOT](https://github.com/REDFLAG-bugs/NCERT-BOT)
+- 🔭 I’m currently working on [trannote](https://github.com/REDFLAG-bugs/trannote)
 - 🌱 I’m currently learning Kubernetes and Rust
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with machine learning
