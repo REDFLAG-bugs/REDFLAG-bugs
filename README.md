@@ -28,6 +28,11 @@ Here are a few projects I've worked on:
 - [The X app](https://x.com/ifound_24)
 * * *
 
+ <a href= "https://cloud.layer5.io/user/a3a119e3-1baf-47ef-92f3-5f3494b5cb2b?tab=badges&badge=first-design" >
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
+
+* * *
 <!-- Profile View Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=REDFLAG-bugs&color=blue" alt="Profile Views"/>
