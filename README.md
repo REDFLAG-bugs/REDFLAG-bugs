@@ -25,7 +25,7 @@ Here are a few projects I've worked on:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/iamanshumanmishra/)
-- [The X app](https://x.com/ifound_24)
+- [The X app](https://x.com/Snapanshu)
 * * *
 
  <a href= "https://cloud.layer5.io/user/a3a119e3-1baf-47ef-92f3-5f3494b5cb2b?tab=badges&badge=first-design" >
